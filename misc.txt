@@ -15,7 +15,7 @@ last 5th snippet,first line:
 test_images, test_labels = drive.dataload('MyDrive/test_set')
 
 
-
+............
 
 
 
